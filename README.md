@@ -48,7 +48,7 @@ The project was carried out by a team of three people:
 
 ### 3. Admin Panel
 
-- Secure login page (demo access: `admin` / `admin123`)
+- Secure login page 
 - After login, the admin can **add new models** with:
   - Name, description, price, area, category
   - Multiple photos (upload supported)
@@ -85,6 +85,6 @@ The site allows the blogger to easily showcase and manage their collection of mi
 
 ## License
 
-This project was developed for educational / portfolio purposes as part of a team project.
+This project was developed for educational purposes as part of a team project.
 
 ---
