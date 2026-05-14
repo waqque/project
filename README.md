@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**Houseforms** is a website developed for a local blogger who creates handcrafted miniature architectural models (house models) for collectors. The site serves as both a portfolio and a simple showcase for the models.
+We have created a website developed for a local blogger who creates handcrafted miniature architectural models (house models) for collectors. The site shows a simple showcase for the models.
 
-The website is fully functional, dynamic, and includes an admin panel for easy content management.
+The website is fully functional and includes an admin panel for easy content management.
 
 ---
 
