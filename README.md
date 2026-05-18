@@ -15,7 +15,7 @@ The project was carried out by a team of three people:
 | Role | Responsibility |
 |------|----------------|
 | **Database Manager** | Database structure, storing model data (name, description, price, area, category, photos), integration with the website |
-| **Client Communication Manager** | Main point of contact with the blogger: gathering requirements, presenting progress, collecting feedback |
+| **Project manager** | Main point of contact with the blogger: gathering requirements, presenting progress, collecting feedback |
 | **Frontend Developer** | User interface, filtering, photo galleries, admin panel interface |
 
 ---
